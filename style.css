@@ -38,6 +38,16 @@ h5,
 h6 {
     overflow-wrap: break-word;
 }
+
 /* End of Reset */
 
 /* = Custom Styles = */
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.sidebar {
+    grid-row: 1/3;
+}
