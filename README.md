@@ -1,7 +1,10 @@
 # Admin-Dashboard
 Replication of an admin dashboard design with mostly CSS grid layout.
 
-[**View the Dashboard!**](https://nirmalsubedi.github.io/odin-admin-dashboard/)
+**Design To Replicate:**
+![Dashboard Design](/imgs/dashboard-project.png)
+
+[**View Replication!**](https://nirmalsubedi.github.io/odin-admin-dashboard/)
 
 ## Which skills were demonstrated?
 - Laying out main-content, header, and sidebar with css grid.
