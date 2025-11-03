@@ -1,10 +1,11 @@
 # Admin-Dashboard
 Replication of an admin dashboard design with mostly CSS grid layout.
 
-**Design To Replicate:**
+### Design To Replicate
 ![Dashboard Design](/imgs/dashboard-project.png)
 
-[**View Replication!**](https://nirmalsubedi.github.io/odin-admin-dashboard/)
+
+[**View The Replication!**](https://nirmalsubedi.github.io/odin-admin-dashboard/)
 
 ## Which skills were demonstrated?
 - Laying out main-content, header, and sidebar with css grid.
@@ -16,4 +17,4 @@ Replication of an admin dashboard design with mostly CSS grid layout.
 
 
 ## Credits
-Design and Instructions were provided by TOP(The Odin Project) Intermediate HTML and CSS course.
+Design and Instructions were provided by TOP (The Odin Project) - Intermediate HTML and CSS course.
