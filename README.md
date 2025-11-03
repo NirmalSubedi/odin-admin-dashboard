@@ -1,7 +1,7 @@
 # Admin-Dashboard
 Replication of an admin dashboard design with mostly CSS grid layout.
 
-### Design To Replicate
+### Design:
 ![Dashboard Design](/imgs/dashboard-project.png)
 
 
